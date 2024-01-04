@@ -1,0 +1,11 @@
+.container{
+ width: 1350px;
+ height: 100px; 
+ background-color: #f5eaf1;  
+}
+.first{
+    width: 100px;
+    height:100px;
+    background-color: aquamarine;
+    display:inline-flex;
+}
